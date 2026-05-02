@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MasterHttpRelayVPN-blue?logo=github)](https://github.com/masterking32/MasterHttpRelayVPN)
 
-**[🇮🇷 راهنمای فارسی (Persian)](README_FA.md)**
+**[🇮🇷 راهنماییی فارسی (Persian)](README_FA.md)**
 
 A free tool that lets you access the internet freely by hiding your traffic behind trusted websites like Google. No VPS or server needed — just a free Google account.
 
